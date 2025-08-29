@@ -1,4 +1,5 @@
 Open Terminal
+
   Check node is install or not (if not install)
     node -v
     npm -v
