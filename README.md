@@ -10,7 +10,7 @@ Open Terminal
     Create folder in vs code as assets
       create file index.css
     run this command:
-      npx @tailwindcss/cli -i ./assets/input.css -o ./assets/output.css --watch
+      npx @tailwindcss/cli -i ./assets/index.css -o ./assets/output.css --watch
 
 
   All Set open particular html file and see live preview
